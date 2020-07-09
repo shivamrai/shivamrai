@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I’m currently learning Front-end Devlopment with React JS. Feel free to checkout my repo and projects.
 
 <!--
 **shivamrai/shivamrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
